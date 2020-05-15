@@ -6,26 +6,17 @@
 [Download](http://d.56show.com/rdsdk/private/pack/rd_VEUISdk(Bin)_Android_190221_1.1.1311576.zip)
 
 ### SDK功能介绍:
-#### 1.拍摄
-* **实时美颜**	
-* **人脸贴纸/挂件**
-	支持人脸识别及贴纸/挂件显示
-* **多段拍摄**
-	一个视频可以分多段次拍摄,并支持回删
-* **多种拍摄模式**
-	支持长按拍摄、快速点击持续拍摄
-* **定时拍**
-	支持5秒内定时拍摄
-* **摄像头切换**
-	前、后摄像头自由切换，中间无卡顿
-* **多比例支持**
-	支持1:1 、9:16、16:9多个比例录制
-* **变焦、对焦**
-	通过相应手势可以缩放摄像头采集画面及清晰度(依赖硬件支持)
-* **滤镜**
-	内置主流滤镜，与编辑滤镜同步，支持扩展更多滤镜
-* **照片**
-	当前摄像头画面保存到图片
+#### 1. Shooting
+Real-time beauty
+Face sticker / pendant Support face recognition and sticker / pendant display
+Multi-segment shooting A video can be shot in multiple segments and supports back deletion
+Multiple shooting modes support long-press shooting, quick click and continuous shooting
+Timed shooting Support timed shooting within 5 seconds
+Camera switching Front and rear cameras can be switched freely with no lag in the middle
+Multi-ratio support : support 1: 1, 9:16, 16: 9 multiple ratio recording
+Zooming and focusing You can zoom the camera to collect images and sharpness through corresponding gestures (depending on hardware support)
+Filters Built-in mainstream filters, synchronized with editing filters, support to expand more filters
+Photo Save the current camera picture to the picture
 
 #### &emsp;截图
 <img src="website/static/camera1.jpg" width = "200" /> <img src="website/static/camera2.jpg" width = "200" /> <img src="website/static/camera3.jpg" width = "200" />

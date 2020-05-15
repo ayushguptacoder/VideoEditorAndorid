@@ -69,9 +69,7 @@ Photo Save the current camera picture to the picture
 
 ### 关于授权：
 
-www.rdsdk.com 致力于专业的人做专业的事，降低客户的开发时间和开发成本，你只需要支付很少的费用，花上几个小时就能增加视频编辑功能。
 
-[单击申请试用](http://www.rdsdk.com/home/business/registers)
 
 **开发文档:**
 
@@ -84,10 +82,4 @@ www.rdsdk.com 致力于专业的人做专业的事，降低客户的开发时间
 ### 洽谈咨询：
 
 **SDK交流群：** [305128688](http://shang.qq.com/wpa/qunwpa?idkey=bb9ac035ffa2d930719535a3b5d4542a780bb0f94613385fd93c996ee816ef05)
-
-**咨询电话: 4008989105**
-
-**客服电话: 15313066905 (周一至周五 9:00-18:00)**
-
-**客服邮箱：<2637433751@qq.com>**
 
